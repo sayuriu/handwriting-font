@@ -1,6 +1,6 @@
 <h1 align="center">handwriting-font</h1>
 <p align="center">
-<img src="./preview.png">
+<img src="./preview.v2.png">
 More characters will be added in the future!<br>
 <b>Do not use or distribute this for commercial purposes.</b>
 </p>
